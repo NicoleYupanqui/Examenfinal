@@ -1,7 +1,7 @@
 Overall rank,Country or region,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
 1, Finland,7.809,1.285,1.500,0.961,0.662,0.160,0.478
 2, Denmark,7.646,1.327,1.503,0.979,0.665,0.243,0.495
-3,  Switzerland,7.560,1.391,1.472,1.041,0.629,0.269,0.408
+3, Switzerland,7.560,1.391,1.472,1.041,0.629,0.269,0.408
 4, Iceland,7.504,1.327,1.548,1.001,0.662,0.362,0.145
 5, Norway,7.488,1.424,1.495,1.008,0.670,0.288,0.434
 6, Netherlands,7.449,1.339,1.464,0.976,0.614,0.336,0.369
@@ -90,7 +90,7 @@ Overall rank,Country or region,Score,GDP per capita,Social support,Healthy life 
 89, Azerbaijan,5.165,0.990,1.181,0.731,0.468,0.040,0.247
 90, North Macedonia,5.160,0.935,1.183,0.803,0.410,0.186,0.025
 91, Ghana,5.148,0.576,0.966,0.432,0.477,0.261,0.057
-92,   Nepal,5.137,0.444,1.101,0.669,0.481,0.301,0.128
+92, Nepal,5.137,0.444,1.101,0.669,0.481,0.301,0.128
 93, Turkey,5.132,1.127,1.197,0.781,0.254,0.086,0.121
 94, China,5.124,0.991,1.132,0.867,0.602,0.079,0.117
 95, Turkmenistan,5.119,1.009,1.510,0.612,0.515,0.323,0.034
